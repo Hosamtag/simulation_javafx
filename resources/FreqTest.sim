@@ -1,0 +1,10 @@
+#Fri Oct 30 22:23:16 EDT 2020
+ColorsUsed=
+Description=Description
+NeighborhoodType=Complete
+Authors=Author
+EdgePolicy=Finite
+Title=FreqTest
+Filename=resources/FreqTest.csv
+ImagesUsed=
+SimulationType=Conway

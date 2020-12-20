@@ -1,0 +1,10 @@
+#Fri Oct 30 22:24:05 EDT 2020
+ColorsUsed=
+Description=1
+NeighborhoodType=Complete
+Authors=1
+EdgePolicy=Finite
+Title=ViewFreqTest
+Filename=resources/ViewFreqTest.csv
+ImagesUsed=
+SimulationType=FireSpread

@@ -1,0 +1,10 @@
+#Fri Oct 30 22:23:29 EDT 2020
+ColorsUsed=
+Description=test
+NeighborhoodType=Complete
+Authors=test
+EdgePolicy=Finite
+Title=test
+Filename=resources/test.csv
+ImagesUsed=
+SimulationType=Conway
