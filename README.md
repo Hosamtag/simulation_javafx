@@ -1,4 +1,4 @@
-simulation
+Simulation Visualizer
 ====
 
 This project implements a cellular automata simulator.
@@ -14,7 +14,7 @@ Finish Date: Oct 19
 Hours Spent:
 James - 50
 Anish - 45
-Hosam - 50
+Hosam - 75
 
 ### Primary Roles
 Hosam - Visualization (view package)
@@ -22,6 +22,12 @@ Anish - Configuration (util package) and Exceptions
 James - Simulation (model package)
 Each person created tests for these packages as well.
 
+![WaTor Simulation](WaTor.PNG)
+
+
+![WaTor_Grid](grid.PNG)
+
+![Fire_Simulation](fire.PNG)
 
 ### Resources Used
 Used the Duke Application Test created by Dr. Duvall in testing the JavaFx components of our program. Also used the lab browser created by Dr. Duvall in giving us a framework to work off of. 
